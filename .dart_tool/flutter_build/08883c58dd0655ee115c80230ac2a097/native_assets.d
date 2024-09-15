@@ -1,0 +1,1 @@
+ P:\\flutter_projects\\forelius\\.dart_tool\\flutter_build\\08883c58dd0655ee115c80230ac2a097\\native_assets.yaml: 
